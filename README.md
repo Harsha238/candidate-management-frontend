@@ -7,7 +7,7 @@ Frontend:
 https://rococo-brioche-49501d.netlify.app
 
 Backend API:
-https://candidate-management-backend-q18q.onrender.com
+https://candidate-management-backend-q18q.onrender.com/api/candidates
 
 ---
 
